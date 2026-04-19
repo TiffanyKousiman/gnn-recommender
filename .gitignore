@@ -1,0 +1,6 @@
+# spotify million playlist data
+spotify_million_playlist/data/*.json
+spotify_million_playlist_sample/*
+*.pkl
+
+.DS_Store
